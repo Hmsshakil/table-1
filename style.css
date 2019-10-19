@@ -1,0 +1,68 @@
+#home {
+    background-color: dimgrey;
+    color: white;
+    height: 60px;
+    width: 2000px;
+    font-size: 40px;
+    background: url(https://cdn6.f-cdn.com/contestentries/1301217/27758306/5acbd1448d2c3_thumb900.jpg)
+}
+
+#menu {
+    text-align: center;
+    background-color: black;
+
+    padding: 0;
+    margin: o;
+    list-style: none;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_3N2YhydKsR7RUt809ulqSyL6d6-wC5DZHJWYBeyrFTRaUZOY&s)
+}
+
+#menu td {}
+
+#menu td a {
+    text-decoration: none;
+    display: block;
+    background: ;
+    padding: 1px;
+}
+
+#menu td a:hover,
+a:active {
+    background: black;
+
+}
+
+#menu td a:link,
+a:visited {
+    display: block;
+    width: 150px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -khtml-border-radius: 15px;
+}
+
+#mainmenu {
+    height: 460px;
+    background-color: white;
+}
+
+#footer {
+    height: auto;
+    background-color: dimgray;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    background: url(https://cdn6.f-cdn.com/contestentries/1301217/27758306/5acbd1448d2c3_thumb900.jpg)
+}
+
+#wrapper > tr {
+    height: 100%;
+    width: 100;
+
+}
